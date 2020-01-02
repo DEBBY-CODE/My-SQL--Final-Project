@@ -8,7 +8,7 @@
 You have access to the entire Maven Movies SQL database, but the remaining employees are not able to give you much direction. You’ll need to analyze everything on your own.
 
 **THE OBJECTIVE**:
- *Use MySQL to;
+ Use MySQL to;
 Access and explore the Maven Movies database 
 Develop a firm grasp of the 16 database tables and how they relate to each other 
 Analyze all aspects of the company’s data, including transactions, customers, staff, etc
