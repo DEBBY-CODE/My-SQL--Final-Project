@@ -1,4 +1,4 @@
-# INTRODUCING THE UDEMY MYSQL FOR DATA ANALYSIS Beginner Project
+# INTRODUCING THE UDEMY MYSQL FOR DATA ANALYSIS Project
 
 **THE SITUATION**: 
  You and your rich Uncle Jimmy just purchased Maven Movies, a brick and mortar DVD Rental business. Uncle Jimmy put up the money, and you’re in charge of the day-to-day operations.
